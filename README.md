@@ -1,5 +1,3 @@
-Hy! I'm Sanyam Sharma
-
 <div align="center" style="line-height:0;">
 <picture>
   <source media="(prefers-color-scheme: dark)"
