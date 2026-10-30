@@ -10,9 +10,8 @@
 </picture>
 </div>
 
-<div align="center">
-  Research Intern @ NetX Lab, IIT Hyderabad <br>
-  LLM Harness · Model Inference · Agent Evaluation
+<div align="left">
+  Research Intern @ NetX Lab, IIT Hyderabad | LLM Harness · Model Inference · Agent Evaluation
 </div>
 
 <br>
