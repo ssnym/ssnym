@@ -14,11 +14,3 @@
   Research Intern @ NetX Lab, IIT Hyderabad | LLM Harness · Model Inference · Agent Evaluation
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://ssnym.github.io/">
-    <img alt="Portfolio"
-      src="https://img.shields.io/badge/-PORTFOLIO-1f6feb?style=for-the-badge">
-  </a>
-</div>
