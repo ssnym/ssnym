@@ -1,4 +1,3 @@
-ML | Software | System
 <div align="center" style="line-height:0;">
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -11,4 +10,16 @@ ML | Software | System
 </picture>
 </div>
 
-[Portfolio](https://ssnym.github.io/)
+<div align="center">
+  Research Intern @ NetX Lab, IIT Hyderabad <br>
+  LLM Harness · Model Inference · Agent Evaluation
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://ssnym.github.io/">
+    <img alt="Visit my website"
+      src="https://img.shields.io/badge/Visit%20my%20website-ssnym.github.io-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
+</div>
