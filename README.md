@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://ssnym.github.io/">
-    <img alt="Visit my website"
-      src="https://img.shields.io/badge/Visit%20my%20website-ssnym.github.io-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white">
+    <img alt="Portfolio"
+      src="https://img.shields.io/badge/-PORTFOLIO-1f6feb?style=for-the-badge">
   </a>
 </div>
